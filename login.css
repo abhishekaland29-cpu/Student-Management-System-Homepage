@@ -455,7 +455,7 @@ nav {
    background: linear-gradient(135deg, #6a11cb, #b721ff);
    /* margin-top: -50%; */
    width: 100%;
-   height: 100%;
+   height: 120%;
    margin-left: -.1%;
 
 }
@@ -482,6 +482,7 @@ nav {
    
 } 
 } 
+
 
 
 

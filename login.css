@@ -288,7 +288,7 @@ nav {
 
 }
 .ex{
-   margin-right: 5%;
+   margin-right: 0px;
 }
 .toggle-left{
    transform: translateX(-200%);
@@ -496,6 +496,7 @@ nav {
 } 
 } 
  
+
 
 
 

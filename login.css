@@ -319,7 +319,7 @@ nav {
     max-width: 400px;
     height: auto;
     max-width: 100%;
-    min-height: 480px;
+    min-height: 580px;
  }
  .containers p{
     font-size: 14px;
@@ -470,7 +470,7 @@ nav {
 
 }
 .ex {
-    margin-top: -30%;
+    margin-top: 2%;
 }
 .containers.active .toggle-left{
    transform: translateY(0);
@@ -491,3 +491,4 @@ nav {
 } 
 } 
  
+
